@@ -24,7 +24,7 @@ env/
 *.tmp
 *.out
 *.err
-
+*.html
 # --- Jupyter ---
 .ipynb_checkpoints/
 *.ipynb_export.py
