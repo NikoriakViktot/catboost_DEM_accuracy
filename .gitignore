@@ -1,0 +1,75 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# --- Віртуальні середовища ---
+.env
+.venv
+venv/
+ENV/
+env/
+*.conda
+*.virtualenv
+
+# --- Кеш / логи ---
+*.log
+*.tmp
+*.out
+*.err
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_export.py
+
+# --- IDE / редактори ---
+.vscode/
+.idea/
+*.iml
+.pydevproject
+.project
+.settings/
+*.swp
+*.swo
+
+# --- Системні ---
+.DS_Store
+Thumbs.db
+
+# --- Data ---
+data/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.tif
+*.tiff
+*.geotif
+*.geoparquet
+
+
+# --- Моделі / результати тренувань ---
+*.pth
+*.pt
+*.ckpt
+*.onnx
+catboost_info/
+*.cbm
+
+# --- Документація/будівельні артефакти ---
+build/
+dist/
+docs/_build/
+*.pdf
+*.docx
