@@ -67,6 +67,7 @@ data/
 catboost_info/
 *.cbm
 artifacts_fabdem_cv/
+artifacts_fabdem_reg/
 
 # --- Документація/будівельні артефакти ---
 build/
