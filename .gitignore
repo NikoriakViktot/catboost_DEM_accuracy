@@ -66,6 +66,7 @@ data/
 *.onnx
 catboost_info/
 *.cbm
+artifacts_fabdem_cv/
 
 # --- Документація/будівельні артефакти ---
 build/
